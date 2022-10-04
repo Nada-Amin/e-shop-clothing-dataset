@@ -1,2 +1,2 @@
 # e-shop-clothing-dataset
-Project for Samsung Innovation Campus
+Team Project for Samsung Innovation Campus 
